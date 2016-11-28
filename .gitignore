@@ -1,0 +1,36 @@
+.vagrant
+.idea/
+.tmp
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+.directory
+nbproject
+Thumbs.db
+
+#sublime trash
+*.sublime*
+
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+data_redis
